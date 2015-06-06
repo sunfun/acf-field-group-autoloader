@@ -2,7 +2,7 @@
   
   /*
     Plugin Name: ACF Field Group Autoloader
-    Plugin URI: http://www.adjustersinternationa.com/
+    Plugin URI: https://github.com/Hube2/acf-field-group-autoloader
     Description: This plugin autoloads field ACF custom field groups. Any custom field groups created on the network admin site are save in a special folder in the network admin theme. The network sub-sites read these files and copy all of the field groups from the main site into the sub-sites. Editing of custom fields that will be used on the entire network must be edited on the network admin site.
     Version: 1.0.0
     Author: John A. Huebner II
